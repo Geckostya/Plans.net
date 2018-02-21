@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helpText">
+        Click the button in the upper right corner to add a new plan.\n
+        Click an element in the list on the left panel to choose a group.\n
+        Long-click an element in the list on the left pannel to open the group settings window.\n
+        Click a spinner at the top of the screen to choose a building or a floor.\n
+        Long-click an element in the group settings window to delete it.\n
+        You can\'t view, edit or copy a downloaded map if it is private.\n
+        You can\'t edit a downloaded map if it isn\'t editable.\n
+        If you find a bug then write a full information about this to "plans.net.team@gmail.com"
+    </string>
+</resources>
